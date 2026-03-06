@@ -3,7 +3,6 @@
 🎓 Estudante de **Engenharia de Software – PUC Minas**  
 📍 Belo Horizonte - MG | Brasil  
 
-Atualmente focada em desenvolver minhas habilidades em programação, banco de dados e desenvolvimento web. Buscando oportunidades de **estágio ou posição júnior na área de tecnologia**.
 
 ---
 
