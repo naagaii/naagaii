@@ -1,7 +1,49 @@
-### Hi! I am Francielle Limonge, Software Engineering student 👋
+👋 Olá! Eu sou Francielle Limonge
+
+🎓 Estudante de **Engenharia de Software – PUC Minas**  
+📍 Belo Horizonte - MG | Brasil  
+
+Atualmente focada em desenvolver minhas habilidades em programação, banco de dados e desenvolvimento web. Buscando oportunidades de **estágio ou posição júnior na área de tecnologia**.
+
+---
+
+#  Tecnologias e Ferramentas
+
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-basic-blue?style=for-the-badge&logo=python)
+
+###  Desenvolvimento Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+###  Banco de Dados
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+###  Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+###  Conhecimentos
+- Programação Orientada a Objetos (POO)
+- Estruturas de Dados
+- UML
+- APIs REST
+- JSON
+- Banco de Dados Relacional
+- Sistemas Operacionais (Windows / Linux)
+- Metodologias Ágeis (Scrum / Kanban)
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <div>
 <a href="https://github.com/naagaii">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naagaii&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=naagaii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naagaii&layout=compact&langs_count=7&theme=dracula"/>
 </div>
